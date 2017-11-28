@@ -2,6 +2,7 @@ package primeTest;
 
 import java.util.Scanner;
 
+//输出两个正数之间的所有完数
 public class PerfectNum {
 
 	public static void main(String args[]) {
