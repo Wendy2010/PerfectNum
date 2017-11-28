@@ -25,7 +25,7 @@ public class PerfectNum {
 		}
 		System.out.println(result);
 	}
-	
+	//判断是否是完数
 	public static boolean isPerfect(int num) {
 		int sum = 0;
 		int i = 1;
