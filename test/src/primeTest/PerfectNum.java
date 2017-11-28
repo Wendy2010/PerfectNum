@@ -11,6 +11,7 @@ public class PerfectNum {
 		int max = in.nextInt();
 		String result="";
 		int i = min;
+		//输出min到max之间的所有完数
 		for(; i < max; i++) {
 			if (isPerfect(i)) {
 				if (result.length() == 0) {
